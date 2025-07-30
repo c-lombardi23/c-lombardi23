@@ -33,7 +33,7 @@ My primary interests include:
 ###  Featured Project
 
 <a href="https://github.com/c-lombardi23/ImageProcessingClone">
-  <img align="right" width="180" src="https://github-readme-stats.vercel.app/api/pin/?username=c-lombardi23&repo=new_fit_physicist&theme=radical&border_radius=10" alt="Fiber Cleave Image Analysis Project">
+  <img align="right" width="180" src="https://github-readme-stats.vercel.app/api/pin/?username=c-lombardi23&repo=ImageProcessingClone&theme=radical&border_radius=10" alt="Fiber Cleave Image Analysis Project">
 </a>
 
 #### [Fiber Cleave Image Analysis & Automated Correction](https://github.com/c-lombardi23/ImageProcessingClone)
@@ -50,7 +50,3 @@ An end-to-end system for automating the quality inspection of fiber optic cleave
   - **Configuration Management:** Used **Pydantic** for robust, typed configuration, driving a flexible command-line interface.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c-lombardi23&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats">
-</p>
