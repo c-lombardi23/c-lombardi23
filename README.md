@@ -11,9 +11,9 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
-I am a results-driven engineer with a deep passion for building robust, end-to-end machine learning systems. My expertise lies in moving projects from initial concept and data analysis through to model development, rigorous validation, and deployment. I thrive on solving complex problems with clean, maintainable, and well-architected code.
+I am a dedicated student and aspiring machine learning engineer with a strong foundation in Physics. This background has equipped me with a rigorous, first-principles approach to problem-solving, which I now apply to building robust, end-to-end machine learning systems. My expertise lies in moving projects from initial concept and data analysis through to model development, validation, and deployment. I thrive on solving complex challenges with clean, maintainable, and well-architected code.
 
 My primary interests include:
 -  **Applied Machine Learning:** Developing intelligent systems that solve real-world problems.
@@ -26,13 +26,13 @@ My primary interests include:
 | --------------------- | -------------------------------------------------------------------------------------------------------- |
 | **Languages**         | Python, C, Java, SQL                                                                                              |
 | **Machine Learning**  | TensorFlow, Keras, Scikit-learn, XGBoost, Pandas, NumPy                                                  |
-| **MLOps & Tooling**   | **KerasTuner**, **Stable-Baselines3** (RL), **MLflow**, Git, GitHub Actions, Docker                          |
-| **Data & Validation** | **Pydantic**, Matplotlib, Seaborn, `tf.data`                                                             |
+| **MLOps & Tooling**   | KerasTuner, Stable-Baselines3 (RL), MLflow, Git, GitHub Actions, Docker                          |
+| **Data & Validation** | Pydantic, Matplotlib, Seaborn                                                             |
 | **Dev Environment**   | VS Code, Jupyter, Linux/WSL                                                                              |
 
-### ✨ Featured Project
+###  Featured Project
 
-<a href="https://github.com/c-lombardi23/new_fit_physicist">
+<a href="https://github.com/c-lombardi23/ImageProcessingClone">
   <img align="right" width="180" src="https://github-readme-stats.vercel.app/api/pin/?username=c-lombardi23&repo=new_fit_physicist&theme=radical&border_radius=10" alt="Fiber Cleave Image Analysis Project">
 </a>
 
