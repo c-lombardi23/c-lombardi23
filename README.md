@@ -48,8 +48,8 @@ My primary interests include:
 
 ###  Featured Project
 
-<a href="https://github.com/c-lombardi23/ImageProcessingClone">
-  <img align="right" width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=c-lombardi23&repo=ImageProcessingClone&theme=radical&border_radius=10" alt="Fiber Cleave Image Analysis Project">
+<a href="cleave_example_app.gif">
+  <img align="right" width="250" src="URL_TO_YOUR_THUMBNAIL.png" alt="Click to Watch Project Demo">
 </a>
 
 #### [Fiber Cleave Image Analysis & Automated Correction](https://github.com/c-lombardi23/ImageProcessingClone)
