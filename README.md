@@ -49,7 +49,7 @@ My primary interests include:
 ###  Featured Project
 
 <a href="https://github.com/c-lombardi23/ImageProcessingClone">
-  <img align="right" width="250" src="cleave_example_app.gif" alt="Fiber Cleave Classifier Demo">
+  <img align="center" width="500" src="cleave_example_app.gif" alt="Fiber Cleave Classifier Demo">
 </a>
 
 #### [Fiber Cleave Image Analysis & Automated Correction](https://github.com/c-lombardi23/ImageProcessingClone)
