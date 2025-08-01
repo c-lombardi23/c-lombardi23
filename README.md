@@ -12,24 +12,39 @@
 ---
 
 ### About Me
-
-I am a dedicated student and aspiring machine learning engineer with a strong foundation in Physics. This background has equipped me with a rigorous, first-principles approach to problem-solving, which I now apply to building robust, end-to-end machine learning systems. My expertise lies in moving projects from initial concept and data analysis through to model development, validation, and deployment. I thrive on solving complex challenges with clean, maintainable, and well-architected code.
+I'm a Physics and Computer Science student at **NJIT**, driven to solve complex problems at the intersection of physical modeling and data science. My background provides me with a unique perspective to approach machine learning challenges, from developing algorithms to interpreting large-scale data.
 
 My primary interests include:
 -  **Applied Machine Learning:** Developing intelligent systems that solve real-world problems.
 -  **MLOps & Tooling:** Building the infrastructure for training, validation, and explainability.
 -  **Software Engineering:** Writing high-quality, scalable, and well-documented Python code.
+-  **Computational Physics:** Modeling physical processes with code.
 
-###  My Tech Stack
+### My Tech Stack
 
-| Category              | Technologies                                                                                             |
-| --------------------- | -------------------------------------------------------------------------------------------------------- |
-| **Languages**         | Python, C, Java, SQL                                                                                              |
-| **Machine Learning**  | TensorFlow, Keras, Scikit-learn, XGBoost, Pandas, NumPy                                                  |
-| **MLOps & Tooling**   | KerasTuner, Stable-Baselines3 (RL), MLflow, Git, GitHub Actions, Docker                          |
-| **Data & Validation** | Pydantic, Matplotlib, Seaborn                                                             |
-| **Dev Environment**   | VS Code, Jupyter, Linux/WSL                                                                              |
+**Languages:**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Machine Learning:**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006600?style=for-the-badge&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+**MLOps & Tooling:**
+
+![KerasTuner](https://img.shields.io/badge/KerasTuner-0D47A1?style=for-the-badge&logo=keras&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0096C7?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ###  Featured Project
 
 <a href="https://github.com/c-lombardi23/ImageProcessingClone">
@@ -44,8 +59,9 @@ An end-to-end system for automating the quality inspection of fiber optic cleave
   - Developed a **multi-modal CNN classifier** to identify cleave defects with high precision.
   - Implemented **XGBoost & MLP regression models** to predict the exact corrective tension needed.
   - Built a **Reinforcement Learning agent** (`Stable-Baselines3`) to learn optimal correction policies in a simulated environment.
+  - Working on embedding quantized model into handset for customer use. 
 - **Key Features:**
-  - **Comprehensive MLOps Pipeline:** Features a modular data factory, a hyperparameter tuning system with `KerasTuner`, and robust evaluation scripts.
+  - **Comprehensive MLOps Pipeline:** Features a CLI entry point using configuration files, a hyperparameter tuning system with `KerasTuner`, and tracking with MLFlow.
   - **Explainability:** Integrated **Grad-CAM++** to visualize model focus and ensure trustworthiness.
   - **Configuration Management:** Used **Pydantic** for robust, typed configuration, driving a flexible command-line interface.
 
