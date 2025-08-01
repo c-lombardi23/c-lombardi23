@@ -1,4 +1,4 @@
-# Christopher J. Lombardi | Machine Learning Engineer & Developer
+# Christopher J. Lombardi | Applied Physics Student | Machine Learning Engineer & Developer
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chrisjameslombardi" target="_blank">
@@ -45,10 +45,11 @@ My primary interests include:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ###  Featured Project
 
 <a href="https://github.com/c-lombardi23/ImageProcessingClone">
-  <img align="right" width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=c-lombardi23&repo=ImageProcessingClone&theme=radical&border_radius=10" alt="Fiber Cleave Image Analysis Project">
+  <img align="right" width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=c-lombardi23&repo=ImageProcessingClone&theme=radical&border_radius=10" alt="Fiber Cleave Image Analysis Project">
 </a>
 
 #### [Fiber Cleave Image Analysis & Automated Correction](https://github.com/c-lombardi23/ImageProcessingClone)
